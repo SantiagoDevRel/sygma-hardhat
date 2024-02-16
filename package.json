@@ -1,0 +1,9 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@buildwithsygma/sygma-sdk-core": "^2.7.3",
+    "@chainsafe/hardhat-plugin-multichain-deploy": "^1.0.1",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.20.1"
+  }
+}
